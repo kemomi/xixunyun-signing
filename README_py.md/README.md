@@ -27,7 +27,7 @@ python main.py
 
 在你的项目文件夹中，创建一个名为`main.py`的文件，用来调用qs模块中的函数，实现签到和报告的逻辑。你可以参考以下示例，但是你需要根据你自己的项目修改其中的内容和参数：
 
-```python
+
 import qs # 导入qs模块
 import requests # 导入requests模块
 
