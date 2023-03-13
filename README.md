@@ -1,7 +1,7 @@
 # 习讯云自动签到，本项目包含js版本和py版本
 项目地址：https://github.com/kemomi/xixunyun-signing
 
-# [python版本请看这里](tps://github.com/kemomi/xixunyun-signing/tree/main/README_py.md)
+# [python版本请看这里](https://github.com/kemomi/xixunyun-signing/tree/main/README_py.md)
 
 习讯云自动签到、提交健康日报，简单配置，每天早上9:00～9:30点自动签到，自动提交每日健康日报（打破呆板模式）
 
