@@ -11,11 +11,11 @@ signdata = {
   "temperature": "36.5",
   "healthState": "1",
   "dangerousRegion": "2",
-  "dangerousRegionRemark": "",
+  "dangerousRegionRemark": "1",
   "contactSituation": "2",
-  "contactSituationRemark": "",
+  "contactSituationRemark": "1",
   "familySituation": "1",
-  "familySituationRemark": ""
+  "familySituationRemark": "1"
 }
 # 你的请求头
 headers = {
@@ -45,12 +45,12 @@ def reportdata(family_name, family_phone):
     "temperature": "36.5",
     "health_state": "1",
     "dangerous_region": "2",
-    "dangerous_region_remark": "",
+    "dangerous_region_remark": "1",
     "contact_situation": "2",
-    "contact_situation_remark": "",
+    "contact_situation_remark": "1",
     "family_situation": "1",
-    "family_situation_remark": ""
+    "family_situation_remark": "1"
   }
 
 # 你的微信推送token
-token = "your_token"
+token = "8ea9a2d49cf044a9acb5ec38f5789ea1"
