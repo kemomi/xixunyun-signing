@@ -2,8 +2,8 @@
 
 # 你的登录信息
 data = {
-  "username": "your_username",
-  "password": "your_password"
+  "username": "21092030121",
+  "password": "wj030121"
 }
 
 # 你的签到信息
